@@ -1,0 +1,3 @@
+<audio id="bgmusic" autoplay loop>
+    <source src="music/kesariya.mp3" type="audio/mpeg">
+</audio>
