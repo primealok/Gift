@@ -1,0 +1,11 @@
+Love-Website
+│── index.html
+│── style.css
+│── script.js
+│── music
+│     └── kesariya.mp3
+│── images
+│     ├── photo1.jpg
+│     ├── photo2.jpg
+│     ├── photo3.jpg
+│     └── photo4.jpg
