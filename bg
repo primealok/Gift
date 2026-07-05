@@ -1,0 +1,5 @@
+const music = document.getElementById("bgmusic");
+
+function startWebsite() {
+    music.play();
+}
